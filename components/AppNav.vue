@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Skyline Ivy</h1>
+    <h1>Cool webstore</h1>
     <nav>
       <ul>
         <li>
